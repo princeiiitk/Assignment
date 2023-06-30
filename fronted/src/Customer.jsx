@@ -96,12 +96,12 @@ export default function Customer() {
                       <div className="form-check d-flex justify-content-center mb-5">
                         <input className="form-check-input me-2" type="checkbox" value="" id="form2Example3cg" />
 
-                        I agree all statements in <a href="#!" className="text-body"><u>Terms of service</u></a>
+                        I agree all statements in <a href="" className="text-body"><u>Terms of service</u></a>
 
                       </div>
 
                       <div className="d-flex justify-content-center">
-                        <button type="button"
+                        <button type="submit"
                           className="btn btn-success btn-block btn-lg gradient-custom-4 text-body" onClick={Handlesubmit}>submit</button>
                       </div>
 
